@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    background-image : url('./componente/Moldura/fundo.jpeg');
+
+    /* overflow: hidden; */
+    }
+
+
+
+.slideShow{
+    display: flex   ;
+    justify-content: center;
+    align-items: center;
+}
+
+.slideShow img {
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 200px;
+    
+    height: 600px;
+}
+
+
+
